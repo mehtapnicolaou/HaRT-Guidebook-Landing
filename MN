@@ -66,9 +66,9 @@
 </div>
 
 <script>
-    // CRITICAL: PASTE YOUR GUIDEBOOK PDF LINK HERE
-    // You must change this placeholder URL to the actual link of your PDF hosted on Google Drive, Dropbox, etc.
-    const GUIDEBOOK_PDF_URL = "https://example.com/link-to-your-hart-guidebook.pdf"; 
+    // CRITICAL: GUIDEBOOK PDF LINK - MODIFIED FOR GOOGLE DRIVE DIRECT ACCESS
+    // The 'usp=sharing' is replaced with 'export=download' to encourage immediate file download.
+    const GUIDEBOOK_PDF_URL = "https://drive.google.com/file/d/1ZyHYwKXmqSCMpVXmpplUoc08jLXsaPJI/export=download"; 
 
     // **NOTE: This form is a simulated lead magnet.**
     // In a live environment (like Mailchimp or a website), the form data would be sent to a database first.
